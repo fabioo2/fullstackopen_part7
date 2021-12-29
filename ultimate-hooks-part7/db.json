@@ -1,0 +1,55 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are grat",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "d",
+      "id": 3
+    },
+    {
+      "content": "fabio!!",
+      "id": 4
+    },
+    {
+      "content": "fabio!!",
+      "id": 5
+    },
+    {
+      "content": "fdsafds",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Fabio",
+      "number": "222",
+      "id": 3
+    },
+    {
+      "name": "dasdsa",
+      "number": "fasfsda",
+      "id": 4
+    },
+    {
+      "name": "fdsfs",
+      "number": "fsdafsd",
+      "id": 5
+    }
+  ]
+}
